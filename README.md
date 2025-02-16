@@ -5,7 +5,7 @@
 - 🌱 I’m currently in college.
 - 📫 How to reach me? No way... If I need to, I'll find you myself.
 - ⚡ Fun fact: eternal happy)
-- ✨ My knowledge: java, +- Spring Boot, C++, UI-Design, UX-Design, html, css, git..
+- ✨ My knowledge: java, c++, java script, python, web-design, html+css, git..
 
 ---
 
